@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+}
+.header{
+  background-color: rgb(24, 24, 110);
+  margin: 0px;
+}
+h1{
+  color: white;
+  padding: 10px;
+}
+.main{
+  /* display: flex;
+  justify-content: center;
+  flex-wrap: wrap; */
+  align-items: center;
+  padding: 14px;
+  /* height: 90vh; */
+}
+/* .tv{
+  color: yellow;
+  background-color: rgb(37, 74, 37);
+  padding: 3px;
+  font-weight: bold;
+  width: 22%;
+  margin:15px;
+}
+.tv img{
+  width: 100%;
+  height: 220px;
+}
+.tv p{
+  text-align: center;
+} */
+
+.heading{
+  color: black;
+  text-align: center;
+}
+.buttons{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.btn{
+  background-color: rgb(9, 9, 160);
+  color: white;
+  padding: 8px;
+  justify-content: center;
+  margin: 5px;
+}
