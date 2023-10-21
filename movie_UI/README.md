@@ -2,8 +2,6 @@
 ![image](https://github.com/SumitKumargiri/React/assets/96234273/2da92f4e-fa63-496e-90b5-a115f90a02a5)
 ![image](https://github.com/SumitKumargiri/React/assets/96234273/46a07bb3-f067-4b18-b173-1cc957d873c3)
 ![image](https://github.com/SumitKumargiri/React/assets/96234273/0262a48c-7b6c-4fda-be40-e54958ab0382)
-![Uploading image.png…]()
-
 
 # Getting Started with Create React App
 
