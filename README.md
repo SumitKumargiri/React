@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+![image](https://github.com/SumitKumargiri/React/assets/96234273/94f55d27-878c-440b-86d7-9813053c4183)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -7,6 +9,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
+![image](https://github.com/SumitKumargiri/React/assets/96234273/83dec439-c575-4171-8127-4892be24eaf9)
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
